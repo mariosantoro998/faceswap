@@ -136,7 +136,7 @@ Alternatively you can give a one off donation to any of our Devs:
 
 **Ethereum:** 0xd3e954dC241B87C4E8E1A801ada485DC1d530F01
 
-**Monero:** 45dLrtQZ2pkHizBpt3P3yyJKkhcFHnhfNYPMSnz3yVEbdWm3Hj6Kr5TgmGAn3Far8LVaQf1th2n3DJVTRkfeB5ZkHxWozSX
+**Monero:** 45gR8L7MrSFdZMSBA5bntpM8bBgrGWtyXTHsFRttMBvt2kgpEVHQfEtdN9NfddbUbzK2ubCTxFezDfDB3DpSkN9CScYipox
 
 **Paypal:** [![torzdf](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JZ8PP3YE9J62L)
 
